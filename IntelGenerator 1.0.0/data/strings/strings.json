@@ -1,0 +1,19 @@
+{
+	"IntelGenerator":{
+		"baronIntelTitle":"A Peculiar Message",
+		
+		"baronIntelHeader":"Nice to Know You\n\nDear Mr. Sir,",
+		"baronIntelHeaderHighlight":"Mr. Sir",
+		"baronIntelBody":"I know this message will come to you as surprised but permit me of my desire to go into business relationship with you.\nI am Dr. Kennedy Brazington a cousin to late Hector Balaska of Sindria Diktat Astronaut whom was murdered during the recent civil war in Sindria Diktat region ., before his death my late father was a strong supporter of he.\nIn the 14-years since the time, he has accumulated lobster holding amounting to value almost %s Credits. I am here seeking avenue to transfer lobster fund to you in only you're reliable and Trustworthy person to Investment the fund. I am told this will cost %s Credits in order to access the his fund I need your assistance.\nNeedless to say the trust reposed on you at this juncture is enormous. In return I will sharing 20 percent of the amount to you. Kindly expedite action to enable downpayment.",
+		"baronIntelFooter":"Remain Blessed,Allison McGuire",
+		"baronIntelFooterHighlight":"Allison McGuire",
+		"baronIntelPaid":"Without a second thought, you wired %s credits to the account indicated by the message. Was this really a good idea?",
+		"baronIntelDismissed":"You coldly dismissed the message. Whoever they are, they'll have to find someone else in the desolate stars to help them now...",
+		
+		"baronButtonPay":"Send the amount",
+		"baronButtonDismiss":"Dismiss",
+		
+		"baronConfirmPay":"Are you sure? This will irreversibly wire %s from your account to the bank account information attached to the message...",
+		"baronConfirmDismiss":"You consider dismissing the message, but can't help but feel you could be missing out on a lucrative opportunity this cycle...",
+	},
+}
