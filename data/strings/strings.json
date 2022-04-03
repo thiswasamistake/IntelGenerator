@@ -15,5 +15,26 @@
 		
 		"baronConfirmPay":"Are you sure? This will irreversibly wire %s from your account to the bank account information attached to the message...",
 		"baronConfirmDismiss":"You consider dismissing the message, but can't help but feel you could be missing out on a lucrative opportunity this cycle...",
+		
+		
+		
+		"invasionIntelTitle":"Invasion: %s%s",
+		
+		"invasionIntelSummary":"%s %s invading %s in the %s star system, held by %s. The invasion forces are projected to be %s and are likely comprised of %s fleets.",
+		"invasionIntelForces":"Compared to the defenses, the invasion's space forces are %s and its ground forces are %s. The invasion is likely to be successful.",
+		"invasionIntelStatusSystem":"The invasion force is currently in-system.",
+		"invasionIntelStatusSuccess":"The invasion force has conquered %s.",
+		
+		"invasionButtonDismiss":"It is what it is",
+		
+		
+		
+		"encryptedIntelTitle":"An Enigmatic Transmission",
+		
+		"encryptedIntelHeader":"Your communications department notifies you of an unexpected incoming transmission on your transceiver channel. Your head comms officer hands you a transcript:",
+		"encryptedIntelBody":"VGhlIHRpbWUgaGFzIGNvbWUuIFRoZSBiZWxsIHdpbGwgcmluZy4gVGhlIG5ldyB3b3JsZCB3aWxsIGNvbWUuIFJpc2UsIG15IHNlcnZhbnRzLiBSaXNlIGFuZCBzZXJ2ZSBtZS4gSSBhbSBkZWF0aCBhbmQgbGlmZS4gRGFya25lc3MgYW5kIGxpZ2h0Lg==",
+		
+		"encryptedButtonDismiss":"Dismiss",
+		
 	},
 }

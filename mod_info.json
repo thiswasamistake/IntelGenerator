@@ -2,7 +2,7 @@
     "id":"intelgenerator",
     "name":"Intel Generator",
     "author":"baguette",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "description":"Unapologetically floods your comm feed with extremely useless intel.",
     "gameVersion":"0.95.1a-RC6",
     "totalConversion":false,
